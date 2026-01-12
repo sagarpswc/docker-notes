@@ -12,11 +12,11 @@ A cheat-sheets and quick but relatively-detailed reference guide for _docker CLI
 
 This repository containes a complete _**set**_ of DOCKER NOTES organized as follow:
 
-- [Docker Architecture](docker/Notes/ARCHITECTURE.md) 
-- [Docker CLI ](docker/Notes/README.md) (_current file_)
+- [Docker Architecture](ARCHITECTURE.md) 
+- [Docker CLI ](README.md) (_current file_)
 - [Dockerfile](DOCKERFILE.md)
 - [Docker Compose](DOCKER-COMPOSE.md)
-- [Docker Best Practices](docker/Notes/BEST-PRACTICES.md)
+- [Docker Best Practices](BEST-PRACTICES.md)
 
 # Table Of Contents
 
